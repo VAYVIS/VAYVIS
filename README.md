@@ -53,9 +53,9 @@ const vinayak = {
 
 ### 🍔 Grovio — Food Delivery Web App
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VAYVIS&repo=Grovio&theme=nord&border_color=6366F1&title_color=6366F1&icon_color=6366F1" alt="Grovio repo card"/>
+<a href="https://github.com/VAYVIS/Grovio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VAYVIS&repo=Grovio&theme=nord&border_color=6366F1&title_color=6366F1&icon_color=6366F1" alt="Grovio repo card"/></a>
 
-Food/product categories, user login & signup, user profile, cart, order placement, and price/total calculation.
+A full-stack food delivery web app with browsable product categories, user login & signup, profile management, a shopping cart, and real-time order placement with price/total calculation.
 
 | Layer | Technology |
 |---|---|
