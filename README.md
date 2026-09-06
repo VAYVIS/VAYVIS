@@ -70,7 +70,7 @@ A full-stack food delivery web app with browsable product categories, user login
 
 ### ⌚ Watch Kingdom — Product Showcase Website
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VAYVIS&repo=WatchKingdom&theme=nord&border_color=6366F1&title_color=6366F1&icon_color=6366F1" alt="Watch Kingdom repo card"/>
+<a href="https://github.com/VAYVIS/WatchKingdom.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VAYVIS&repo=WatchKingdom&theme=nord&border_color=6366F1&title_color=6366F1&icon_color=6366F1" alt="Watch Kingdom repo card"/></a>
 
 Multi-page product showcase website featuring product images and a personal information form.
 
@@ -78,7 +78,7 @@ Multi-page product showcase website featuring product images and a personal info
 |---|---|
 | Frontend | HTML, CSS |
 
-🌐 [Live](https://watchkingdom.github.io) &nbsp;•&nbsp; 🔗 [Code](https://github.com/VAYVIS/WatchKingdom)
+🌐 [Live](https://watchkingdom.github.io) &nbsp;•&nbsp; 🔗 [Code](https://github.com/VAYVIS/WatchKingdom.git)
 
 <br/>
 
